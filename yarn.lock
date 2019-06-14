@@ -65,10 +65,10 @@ builtin-modules@^1.1.1:
   resolved "https://registry.yarnpkg.com/builtin-modules/-/builtin-modules-1.1.1.tgz#270f076c5a72c02f5b65a47df94c5fe3a278892f"
   integrity sha1-Jw8HbFpywC9bZaR9+Uxf46J4iS8=
 
-cfunc@^0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/cfunc/-/cfunc-0.1.1.tgz#69c77267b5e026111b9b4879331744af53114fd2"
-  integrity sha512-GEiUn4lJPvYjbCPe4xyhU2MqrXKcc+7cGV8oXOWkqTkl5yUiFRK8Bk24Cury9EG2OA9+TkzXQucu7eY3kI0Bjw==
+cfunc@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/cfunc/-/cfunc-1.0.0.tgz#4c2976460a739560853dd79823bb065bd1682287"
+  integrity sha512-sGxH3eIv+PSeEipjXSp3KZoH/aZiePAmRD3PvRRICltajaad97YCFr0XtOryASdKT7db4DdkBbBPJ/6UPtGDqQ==
 
 chalk@^2.0.0, chalk@^2.3.0:
   version "2.4.2"
