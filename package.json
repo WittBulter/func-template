@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "main": "dist/index.js",
   "license": "MIT",
+  "preferGlobal": true,
   "scripts": {
     "start": "cfunc dev",
     "lint": "tslint -c tslint.yml -p tsconfig.json",
